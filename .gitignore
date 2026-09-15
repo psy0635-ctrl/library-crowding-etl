@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.sqlite3*
+output*/
+data/
+*.xlsx
